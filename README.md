@@ -37,20 +37,3 @@ Currently upskilling in **AI agents, RAG systems, and MCP servers**.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
-
-### 📦 Open Source
-
-| Project                                                                                               | Description                                                             |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [**multiplayer**](https://github.com/ahsanghalib/multiplayer)                                         | DRM-capable web video player — HLS.js + ShakaPlayer, no UI, unified API |
-| [**react-carousel-virtual-infinite**](https://github.com/ahsanghalib/react-carousel-virtual-infinite) | Virtualized infinite carousel for React — large-dataset performance     |
-| [**react-virtual-indexed-list**](https://github.com/ahsanghalib/react-virtual-indexed-list)           | Virtualized indexed list for React — same approach, list rendering      |
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahsanghalib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanghalib&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
