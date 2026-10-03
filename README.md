@@ -4,7 +4,7 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-ahsanghalib%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanghalib@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40ahsanizhar.com-0891B2?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:hello@ahsanizhar.com)
 [![Website](https://img.shields.io/badge/Website-ahsanizhar.com-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahsanizhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsanghalib-0891B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanghalib)
 
