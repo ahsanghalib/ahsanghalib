@@ -12,9 +12,6 @@
 
 <br>
 
-> [!NOTE]
-> **Taking on a limited number of client projects.** Remote, working with US-based teams.
-
 I build AI agents and automations for businesses, and ship them to production.
 
 I'm a senior engineer with 8+ years of production software, and before that I spent 11 years running accounts, IT and a business of my own. So I start from how the work actually gets done: the workflow, who touches it, where the data goes wrong, and what the numbers need to show.
