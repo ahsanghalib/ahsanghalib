@@ -2,12 +2,10 @@
 
 # M Ahsan Izhar
 
-### Senior Software Engineer — Full Stack, Backend & Frontend
+### Forward-Deployed AI Engineer
 
 8+ years shipping production systems in TypeScript, React, Next.js, Node.js, NestJS, Go, and AWS.
 Most recent: a 5-year engagement at FreeCast Inc., building a streaming platform (Web, Samsung TV, LG TV, Chromecast) serving **988K+ subscribers**.
-
-Currently upskilling in **AI agents, RAG systems, and MCP servers**.
 
 **🟢 Open to US-based remote contract / full-time roles**
 
@@ -65,7 +63,7 @@ Currently upskilling in **AI agents, RAG systems, and MCP servers**.
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
-**05 · Currently upskilling**
+**05 · AI Engineering**
 
 ![AI Integration](https://img.shields.io/badge/AI_Integration-7C3AED?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
