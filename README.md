@@ -42,8 +42,14 @@ Evaluate open and commercial models, build task-specific datasets and benchmarks
 ## Stack
 
 **Languages:** TypeScript, Python, JavaScript, Go
-**AI:** agents, RAG, MCP servers, workflow automation, LLM API integration
-**Production engineering:** Node.js, NestJS, AWS, Terraform, Docker, PostgreSQL, Redis, GitHub Actions
+
+**AI Engineering:** LLM integration, RAG, agents, tool/function calling, MCP, structured outputs, evals, prompt engineering, workflow automation, fine-tuning, LoRA/QLoRA, model optimization
+
+**Frontend:** React, Next.js, Vite, Tailwind CSS
+
+**Backend & Data:** Node.js, NestJS, FastAPI, PostgreSQL, Redis, REST APIs, background jobs
+
+**Cloud & Infrastructure:** AWS, Docker, Terraform, GitHub Actions, CI/CD, observability
 
 <!--
 Uncomment this block once the projects are ready. Keep AI projects first.
