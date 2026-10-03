@@ -1,169 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 1584 396" width="1584" height="396" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4M2ZmYjQzNC00YjIyLTQ3YzgtOTY5Ny1hM2U2ZmIxNGYwYzYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHYJeI19XDGOrt+2kubNltwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozOTQ5MmY3OS00M2NhLTQxNjMtYTQ2NS02YzY5MzUzZTUyZjNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoBG2ZkVBKcuO0QGuJ1tqSDAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggUN9ucsnZj04TDmu6ocyUF0AGBN0kQUeyKyX4+2R9+LqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKWJoFPzyexzJdxiWx01H2cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCPmhPCvB+fhOwOR2Hb4vsGWbUxkWVw5vyp2eKDbK5Om2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjgzZmZiNDM0LTRiMjItNDdjOC05Njk3LWEzZTZmYjE0ZjBjNi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQzNGQ0NDhhLTNkMTctNGU4NS1hMTkxLWIxM2I0MjcwMmRmYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBQ325yydmPThMOa7qhzJQXQAYE3SRBR7IrJfj7ZH34uqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggugXB6c0pf7V4zQn9VLYc1m2b4wqSABKmQChGYO0tld2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgglcBSUOlsdp5EZghjmp9W5Pj+kSTK8eHHacM44rvqiaB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPkXygRS7OO+lXJ5+f/IVp3NP8JUaHwRNJiCeJuSNJUH9RfukdE2hN39OlVdQEsIBMaACMoi9zgGygX8YwPxZAQ=</c2pa:manifest></metadata>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040a16"/><stop offset="1" stop-color="#071426"/></linearGradient>
-    <radialGradient id="glow"><stop offset="0" stop-color="#14b8c8" stop-opacity="0.20"/><stop offset="1" stop-color="#14b8c8" stop-opacity="0"/></radialGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 1584 396" width="1584" height="396" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxNDEwMTU5NS1iZTBhLTQxMGUtODc1Yy01ZDUyZjM0OWYyYTcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKDzHJ/qeA/1fkLD1loB7eAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjZTgyYzY0Yi1iYWQ1LTQ5MDQtYTIwYi1iN2YwM2VmZjYwMjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoH1o+mtFVfwJdsd2uLuMVpgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg9it/MVc1BjOyiQh3HE0ZhvR51uFmbN+uPZAPMYrXW52kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKl8PCafWVGBPukh53ku2xAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBY/q9t+5xuVBYI7ZaPFglnMI72EtFQmspwz9JnouZixGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjVZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjE0MTAxNTk1LWJlMGEtNDEwZS04NzVjLTVkNTJmMzQ5ZjJhNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjEyOGZmNWM0LWMyYWMtNDkxNS1iNjcwLTA2NGE4MTgzZmM4MXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD2K38xVzUGM7KJCHccTRmG9HnW4WZs3649kA8xitdbnaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnUe+zIjYLpJdqYUD8nQXKdqQWTrdcujx8vPln2F04MaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggzjxSDf7eE/QW+RE/dlcC+QW4k92fGCJD2jR8gLhkqiZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEHVEueF2jCkjnooo2bwL9CSBXiU5qLeTDbtwZXqNvcjJyaqsODZqRQl75r2A1EmN+QkhV+8xNCvqHl3sFWSAsY=</c2pa:manifest></metadata>
   <g id="Background" inkscape:groupmode="layer" inkscape:label="Background">
-    <rect id="bg-fill" width="1584" height="396" fill="url(#bg)"/>
+    <rect id="bg-fill" width="1584" height="396" fill="#040A16"/>
   </g>
-  <g id="Glow" inkscape:groupmode="layer" inkscape:label="Glow">
-    <ellipse id="glow-shape" cx="1267" cy="198" rx="420" ry="340" fill="url(#glow)"/>
+  <g id="Grid" inkscape:groupmode="layer" inkscape:label="Grid">
+    <g stroke="#0A1730" stroke-width="1">
+    <line x1="66" y1="0" x2="66" y2="396"/>
+    <line x1="132" y1="0" x2="132" y2="396"/>
+    <line x1="198" y1="0" x2="198" y2="396"/>
+    <line x1="264" y1="0" x2="264" y2="396"/>
+    <line x1="330" y1="0" x2="330" y2="396"/>
+    <line x1="396" y1="0" x2="396" y2="396"/>
+    <line x1="462" y1="0" x2="462" y2="396"/>
+    <line x1="528" y1="0" x2="528" y2="396"/>
+    <line x1="594" y1="0" x2="594" y2="396"/>
+    <line x1="660" y1="0" x2="660" y2="396"/>
+    <line x1="726" y1="0" x2="726" y2="396"/>
+    <line x1="792" y1="0" x2="792" y2="396"/>
+    <line x1="858" y1="0" x2="858" y2="396"/>
+    <line x1="924" y1="0" x2="924" y2="396"/>
+    <line x1="990" y1="0" x2="990" y2="396"/>
+    <line x1="1056" y1="0" x2="1056" y2="396"/>
+    <line x1="1122" y1="0" x2="1122" y2="396"/>
+    <line x1="1188" y1="0" x2="1188" y2="396"/>
+    <line x1="1254" y1="0" x2="1254" y2="396"/>
+    <line x1="1320" y1="0" x2="1320" y2="396"/>
+    <line x1="1386" y1="0" x2="1386" y2="396"/>
+    <line x1="1452" y1="0" x2="1452" y2="396"/>
+    <line x1="1518" y1="0" x2="1518" y2="396"/>
+    <line x1="0" y1="66" x2="1584" y2="66"/>
+    <line x1="0" y1="132" x2="1584" y2="132"/>
+    <line x1="0" y1="198" x2="1584" y2="198"/>
+    <line x1="0" y1="264" x2="1584" y2="264"/>
+    <line x1="0" y1="330" x2="1584" y2="330"/>
+    </g>
   </g>
-  <g id="Circuit art" inkscape:groupmode="layer" inkscape:label="Circuit art">
-    <g id="Circuit lines">
-    <line x1="352" y1="88" x2="352" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="132" y1="220" x2="132" y2="352" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="132" y1="352" x2="220" y2="352" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="440" y1="88" x2="440" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="176" y1="88" x2="176" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="176" y1="176" x2="264" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="88" y1="88" x2="88" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="88" y1="220" x2="0" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="572" y1="220" x2="572" y2="352" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="572" y1="352" x2="704" y2="352" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.19"/>
-    <line x1="660" y1="132" x2="660" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.23"/>
-    <line x1="660" y1="220" x2="792" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.14"/>
-    <line x1="264" y1="264" x2="440" y2="264" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="440" y1="264" x2="440" y2="352" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="396" y1="88" x2="528" y2="88" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="528" y1="88" x2="528" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="528" y1="352" x2="528" y2="528" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="132" y1="220" x2="308" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="308" y1="220" x2="308" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="440" y1="352" x2="704" y2="352" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="704" y1="352" x2="704" y2="440" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.15"/>
-    <line x1="396" y1="132" x2="616" y2="132" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="616" y1="132" x2="616" y2="44" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.20"/>
-    <line x1="924" y1="176" x2="924" y2="264" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.02"/>
-    <line x1="352" y1="220" x2="352" y2="440" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="352" y1="440" x2="440" y2="440" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="880" y1="132" x2="880" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.05"/>
-    <line x1="880" y1="308" x2="792" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.07"/>
-    <line x1="528" y1="88" x2="660" y2="88" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="660" y1="88" x2="660" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.17"/>
-    <line x1="132" y1="176" x2="132" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="836" y1="132" x2="1012" y2="132" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.02"/>
-    <line x1="396" y1="88" x2="528" y2="88" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="528" y1="88" x2="528" y2="0" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="88" y1="308" x2="264" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="264" y1="308" x2="264" y2="396" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="572" y1="220" x2="704" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.24"/>
-    <line x1="528" y1="220" x2="528" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="528" y1="308" x2="660" y2="308" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="792" y1="176" x2="880" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.09"/>
-    <line x1="880" y1="176" x2="880" y2="264" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.04"/>
-    <line x1="132" y1="44" x2="264" y2="44" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="264" y1="44" x2="264" y2="176" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="132" y1="0" x2="220" y2="0" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="616" y1="44" x2="836" y2="44" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.17"/>
-    <line x1="836" y1="44" x2="836" y2="132" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.07"/>
-    <line x1="396" y1="132" x2="396" y2="264" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="396" y1="264" x2="308" y2="264" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="748" y1="132" x2="748" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.16"/>
-    <line x1="308" y1="132" x2="440" y2="132" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    <line x1="440" y1="132" x2="440" y2="264" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.21"/>
-    <line x1="352" y1="88" x2="352" y2="220" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.27"/>
-    </g>
-    <g id="Nodes">
-    <circle cx="352" cy="88" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="352" cy="176" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="220" cy="352" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="132" cy="220" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="132" cy="352" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="440" cy="88" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="440" cy="176" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="264" cy="176" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="176" cy="88" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="176" cy="176" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="0" cy="220" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="88" cy="88" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="88" cy="220" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="704" cy="352" r="4" fill="#14b8c8" fill-opacity="0.30"/>
-    <circle cx="572" cy="220" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="572" cy="352" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="792" cy="220" r="5" fill="#14b8c8" fill-opacity="0.20"/>
-    <circle cx="660" cy="132" r="5" fill="#14b8c8" fill-opacity="0.36"/>
-    <circle cx="660" cy="220" r="7" fill="#14b8c8" fill-opacity="0.36"/>
-    <circle cx="440" cy="352" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="264" cy="264" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="440" cy="264" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="528" cy="176" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="396" cy="88" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="528" cy="88" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="528" cy="352" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="528" cy="528" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="308" cy="308" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="132" cy="220" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="308" cy="220" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="704" cy="440" r="7" fill="#14b8c8" fill-opacity="0.30"/>
-    <circle cx="440" cy="352" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="704" cy="352" r="4" fill="#14b8c8" fill-opacity="0.30"/>
-    <circle cx="616" cy="44" r="5" fill="#14b8c8" fill-opacity="0.41"/>
-    <circle cx="396" cy="132" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="616" cy="132" r="5" fill="#14b8c8" fill-opacity="0.41"/>
-    <circle cx="924" cy="176" r="7" fill="#14b8c8" fill-opacity="0.03"/>
-    <circle cx="924" cy="264" r="4" fill="#14b8c8" fill-opacity="0.03"/>
-    <circle cx="440" cy="440" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="352" cy="220" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="352" cy="440" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="792" cy="308" r="7" fill="#14b8c8" fill-opacity="0.20"/>
-    <circle cx="880" cy="132" r="4" fill="#14b8c8" fill-opacity="0.09"/>
-    <circle cx="880" cy="308" r="5" fill="#14b8c8" fill-opacity="0.09"/>
-    <circle cx="660" cy="176" r="4" fill="#14b8c8" fill-opacity="0.36"/>
-    <circle cx="528" cy="88" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="660" cy="88" r="7" fill="#14b8c8" fill-opacity="0.36"/>
-    <circle cx="132" cy="176" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="132" cy="308" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="836" cy="132" r="7" fill="#14b8c8" fill-opacity="0.14"/>
-    <circle cx="528" cy="0" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="396" cy="88" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="528" cy="88" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="264" cy="396" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="88" cy="308" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="264" cy="308" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="572" cy="220" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="704" cy="220" r="4" fill="#14b8c8" fill-opacity="0.30"/>
-    <circle cx="660" cy="308" r="4" fill="#14b8c8" fill-opacity="0.36"/>
-    <circle cx="528" cy="220" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="528" cy="308" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="880" cy="264" r="5" fill="#14b8c8" fill-opacity="0.09"/>
-    <circle cx="792" cy="176" r="7" fill="#14b8c8" fill-opacity="0.20"/>
-    <circle cx="880" cy="176" r="4" fill="#14b8c8" fill-opacity="0.09"/>
-    <circle cx="264" cy="176" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="132" cy="44" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="264" cy="44" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="132" cy="0" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="220" cy="0" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="836" cy="132" r="4" fill="#14b8c8" fill-opacity="0.14"/>
-    <circle cx="616" cy="44" r="7" fill="#14b8c8" fill-opacity="0.41"/>
-    <circle cx="836" cy="44" r="7" fill="#14b8c8" fill-opacity="0.14"/>
-    <circle cx="924" cy="220" r="4" fill="#14b8c8" fill-opacity="0.03"/>
-    <circle cx="308" cy="264" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="396" cy="132" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="396" cy="264" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="924" cy="220" r="4" fill="#14b8c8" fill-opacity="0.03"/>
-    <circle cx="748" cy="132" r="4" fill="#14b8c8" fill-opacity="0.25"/>
-    <circle cx="748" cy="220" r="4" fill="#14b8c8" fill-opacity="0.25"/>
-    <circle cx="440" cy="264" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="308" cy="132" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="440" cy="132" r="4" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="352" cy="88" r="5" fill="#14b8c8" fill-opacity="0.43"/>
-    <circle cx="352" cy="220" r="7" fill="#14b8c8" fill-opacity="0.43"/>
-    </g>
-    <g id="Squares">
-    <rect x="308" y="220" width="34" height="34" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.31"/>
-    <rect x="572" y="308" width="26" height="26" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.31"/>
-    <rect x="880" y="132" width="34" height="34" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.06"/>
-    <rect x="660" y="308" width="34" height="34" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.26"/>
-    <rect x="792" y="308" width="26" height="26" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.14"/>
-    <rect x="528" y="220" width="26" height="26" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.31"/>
-    <rect x="836" y="264" width="26" height="26" rx="4" fill="none" stroke="#14b8c8" stroke-width="2" stroke-opacity="0.10"/>
-    </g>
+  <g id="Accent" inkscape:groupmode="layer" inkscape:label="Accent">
+    <rect id="accent-bar" x="863" y="104" width="64" height="4" fill="#14b8c8"/>
+    <rect id="divider" x="863" y="252" width="624" height="1" fill="#15263F"/>
   </g>
   <g id="Text" inkscape:groupmode="layer" inkscape:label="Text">
-    <text id="headline-1" x="863" y="151" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff">AI agents &amp; automations,</text>
-    <text id="headline-2" x="863" y="213" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff">shipped to production.</text>
-    <rect id="accent-bar" x="863" y="229" width="64" height="4" fill="#14b8c8"/>
-    <text id="keywords" x="863" y="269" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#14b8c8">Agents  •  RAG  •  MCP  •  Workflow automation</text>
+    <text id="headline-1" x="863" y="170" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">AI agents &amp; automations,</text>
+    <text id="headline-2" x="863" y="228" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">shipped to production.</text>
+    <text id="keywords" x="863" y="288" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#14b8c8">Agents  /  RAG  /  MCP  /  Workflow automation</text>
+    <text id="domain" x="1487" y="352" text-anchor="end" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#94A3B8">ahsanizhar.com</text>
   </g>
 </svg>
