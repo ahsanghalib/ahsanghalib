@@ -1,6 +1,6 @@
 <img src="assets/banner.svg" alt="M Ahsan Izhar, AI agents and automations shipped to production" width="100%">
 
-[Email](mailto:hello@ahsanizhar.com) / [ahsanizhar.com](https://ahsanizhar.com) / [Blog](https://blog.ahsanizhar.com) / [LinkedIn](https://linkedin.com/in/ahsanghalib)
+[![Email](https://img.shields.io/badge/Email-ahsanghalib%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanghalib@gmail.com) [![Website](https://img.shields.io/badge/Website-ahsanizhar.com-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahsanizhar.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahsanghalib-0891B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanghalib)
 
 I build production AI systems for businesses — from AI features and agents to workflow automation, RAG, integrations, and custom model engineering.
 
