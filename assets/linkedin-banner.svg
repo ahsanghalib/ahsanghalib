@@ -39,9 +39,9 @@
     <rect id="divider" x="863" y="252" width="624" height="1" fill="#15263F"/>
   </g>
   <g id="Text" inkscape:groupmode="layer" inkscape:label="Text">
-    <text id="headline-1" x="863" y="170" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">AI agents &amp; automations,</text>
+    <text id="headline-1" x="863" y="170" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">AI systems &amp; products,</text>
     <text id="headline-2" x="863" y="228" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">shipped to production.</text>
-    <text id="keywords" x="863" y="288" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#14b8c8">Agents  /  RAG  /  MCP  /  Workflow automation</text>
+    <text id="keywords" x="863" y="288" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#14b8c8">full-stack AI /  RAG  /  MCP  / Automation / Model engineering</text>
     <text id="domain" x="1487" y="352" text-anchor="end" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#94A3B8">ahsanizhar.com</text>
   </g>
 </svg>
